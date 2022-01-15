@@ -14,12 +14,13 @@ This project focuses on cases that occured during the outbreak of the pandemic C
 ## Screenshots
 
 
-![App Screenshot1](file:///C:/Users/Cash%20Crusaders/Desktop/1.PNG)
-![App Screenshot2](file:///C:/Users/Cash%20Crusaders/Desktop/2.PNG)
-![App Screenshot](file:///C:/Users/Cash%20Crusaders/Videos/bandicam%202022-01-14%2018-57-50-127_Trim.mp4)
-![App Screenshot3](file:///C:/Users/Cash%20Crusaders/Desktop/3.PNG)
-![App Screenshot4](file:///C:/Users/Cash%20Crusaders/Desktop/4.PNG)
-![App Screenshot5](file:///C:/Users/Cash%20Crusaders/Desktop/5.PNG)
+![](Images/1.PNG)
+![](Images/2.PNG)
+![](Images/3.PNG)
+![](Images/4.PNG)
+![](Images/5.PNG)
+![](Images/bandicam%20202022-01-14%202018-57-50-127_Trim.mp4)
+
 ## Tech Stack
 
 Python
