@@ -12,7 +12,12 @@ Given a certain big company, they are having a have an insurance premium deal th
 ## Screenshots
 
 
-![App Screenshot1](https:///1.PNG)
+![](Screenshots/1.PNG)
+![](Screenshots/2.PNG)
+![](Screenshots/4.PNG)
+![](Screenshots/5.PNG)
+![](Screenshots/6.PNG)
+![](Screenshots/7.PNG)
 
 ## Tech Stack
 
